@@ -4,7 +4,7 @@
 
 ##### I’m highly experienced in Apps development, DevOps and Cloud Solutions Architect. I have been part of the IT industry for well over 11 years in a variety of roles ranging from Apps development, support to architecture. Over the last 11 years, I have been mainly working on digital ecosystem, cloud-native architecture, microservices, DevOps, systems integration, Apps development and design solutions for enterprise organizations and as a Solutions Architect.
 
-- 📫 Reach out to me at jaiswal.jainath@gmail.com
+- 📫 Reach out to me at jaiswal.jainath@gmail.com , https://www.linkedin.com/in/jainath-jaiswal-b6996337/
 
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
